@@ -1,0 +1,7 @@
+cd /opt/petshop
+rm -rf build
+truffle develop
+compile
+migrate
+npm run dev
+http://192.168.137.71:3000/
