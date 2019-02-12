@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity ^0.5.0;
 
 contract Adoption {
     // 创建一个地址数组，用来存储领养者与当前宠物的关联信息
@@ -14,8 +14,8 @@ contract Adoption {
         // return petId;
     }
 
-    // 检索领养者的地址信息(仅仅是读取区块链数据，则当前函数需要添加constant)
-    function getAdopters() public constant returns (address[16]) {
+    // 检索领养者的地址信息(仅仅是读取区块链数据，则当前函数需要添加constant 0.5改为view了)
+    function getAdopters() public view returns (address[16] memory) {
         return adopters;
     }
 }

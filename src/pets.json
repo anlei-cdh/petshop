@@ -1,27 +1,27 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
+    "name": "Mia",
     "picture": "images/cat1.jpg",
     "age": 3,
-    "breed": "Scottish Terrier",
+    "breed": "American Shorthair",
     "location": "Lisco, Alabama"
   },
   {
     "id": 1,
-    "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
+    "name": "Latisha",
+    "picture": "images/golden-retriever.jpeg",
     "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Tooleville, West Virginia"
+    "breed": "Golden Retriever",
+    "location": "Soudan, Louisiana"
   },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Freeburn, Idaho"
+    "name": "Jessie",
+    "picture": "images/cat4.jpg",
+    "age": 3,
+    "breed": "Puppet Cat",
+    "location": "Jacksonwald, Palau"
   },
   {
     "id": 3,
@@ -33,35 +33,35 @@
   },
   {
     "id": 4,
-    "name": "Jeanine",
-    "picture": "images/cat2.jpg",
+    "name": "Collins",
+    "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
-    "location": "Gerber, South Dakota"
+    "location": "Freeburn, Idaho"
   },
   {
     "id": 5,
-    "name": "Elvia",
+    "name": "Coco",
     "picture": "images/cat3.jpg",
     "age": 3,
-    "breed": "French Bulldog",
+    "breed": "Tabby Cat",
     "location": "Innsbrook, Illinois"
   },
   {
     "id": 6,
-    "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Soudan, Louisiana"
+    "name": "Mily",
+    "picture": "images/cat2.jpg",
+    "age": 2,
+    "breed": "Tabby Cat",
+    "location": "Gerber, South Dakota"
   },
   {
     "id": 7,
-    "name": "Coleman",
-    "picture": "images/cat4.jpg",
+    "name": "Gina",
+    "picture": "images/scottish-terrier.jpeg",
     "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
+    "breed": "Scottish Terrier",
+    "location": "Tooleville, West Virginia"
   },
   {
     "id": 8,
@@ -81,11 +81,11 @@
   },
   {
     "id": 10,
-    "name": "Leonor",
-    "picture": "images/cat1.jpg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
+    "name": "Kristina",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 4,
+    "breed": "Golden Retriever",
+    "location": "Sultana, Massachusetts"
   },
   {
     "id": 11,
@@ -97,34 +97,34 @@
   },
   {
     "id": 12,
-    "name": "Stevenson",
-    "picture": "images/cat2.jpg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Kingstowne, Nevada"
+    "name": "Mia",
+    "picture": "images/cat1.jpg",
+    "age": 2,
+    "breed": "American Shorthair",
+    "location": "Tyhee, Indiana"
   },
   {
     "id": 13,
-    "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
+    "name": "Mily",
+    "picture": "images/cat2.jpg",
+    "age": 3,
+    "breed": "Tabby Cat",
+    "location": "Kingstowne, Nevada"
   },
   {
     "id": 14,
-    "name": "Ethel",
+    "name": "Coco",
     "picture": "images/cat3.jpg",
     "age": 2,
-    "breed": "Golden Retriever",
+    "breed": "Tabby Cat",
     "location": "Broadlands, Oregon"
   },
   {
     "id": 15,
-    "name": "Terry",
+    "name": "Jessie",
     "picture": "images/cat4.jpg",
     "age": 2,
-    "breed": "Golden Retriever",
+    "breed": "Puppet Cat",
     "location": "Dawn, Wisconsin"
   }
 ]

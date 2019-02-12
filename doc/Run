@@ -1,7 +1,33 @@
-cd /opt/petshop
+#NodeJS
+cd /opt
+wget https://nodejs.org/dist/v8.11.1/node-v8.11.1-linux-x64.tar.xz
+tar -xvf node-v8.11.1-linux-x64.tar.xz
+ln -s node-v8.11.1-linux-x64 nodejs
+
+vi /root/.bash_profile
+export NODEJS_HOME=/opt/nodejs
+export PATH=$PATH:$NODEJS_HOME/bin
+
+source /root/.bash_profile
+
+============================================================================
+
+#Truffle
+npm install -g truffle
+
+mkdir petshop && cd petshop
+truffle unbox pet-shop
+
+upload atom/petshop -> /opt/petshop (contracts,migrations,src)
+
 rm -rf build
 truffle develop
 compile
 migrate
+
+============================================================================
+
+#Run
+cd /opt/petshop
 npm run dev
-http://192.168.137.71:3000/
+http://cdh03:3000/
