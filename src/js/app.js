@@ -26,7 +26,7 @@ App = {
   initWeb3: function() {
     // 初始化web3
     if (typeof web3 !== 'undefined') {
-      // 有钱包的时候执行这里
+      // 有钱包的时候执行
       App.web3Provider = web3.currentProvider;
       console.info("if...");
       console.info(App.web3Provider);
